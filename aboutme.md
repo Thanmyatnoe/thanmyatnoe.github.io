@@ -4,13 +4,13 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm an Network and System Engineer working in Systems integrator fields for over four year. I have strong knowledge in:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Network Administration
+- CI/CD, Containerization (Kubernetes, Docker)
+- Cloud Technology ( AWS & Azure)
+- Infrastructure Automation (Ansible, Terraform)
 
-What else do you need?
+I am currently working as a Technical Team Lead at Wise and Wealth Company Myanmar Especially, I am passionate about DevOps and Cloud Native Technologies.
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
