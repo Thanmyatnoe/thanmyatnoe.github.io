@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-I'm an Network and System Engineer working in Systems integrator fields for over four year. I have strong knowledge in:
+My name is Than Myat Noe. And I have strong knowledge in:
 
 - Network Administration
 - CI/CD, Containerization (Kubernetes, Docker)
