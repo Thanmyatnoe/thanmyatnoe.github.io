@@ -83,7 +83,7 @@ Go to IP >> IPSec
 Select Profiles 
 
 ```
-![ace](/img/IPSec%20VPN/FW_Phase2Selectors.png)
+![ace](/img/IPSec%20VPN/Mikrotik_Profile.png)
 
 ```
 Name : TO-DC
@@ -100,7 +100,7 @@ Go to IP >> IPSec
 Select Peers
 
 ```
-![ace](/img/IPSec%20VPN/FW_Phase2Selectors.png)
+![ace](/img/IPSec%20VPN/Mikrotik_Peers.png)
 
 ```
 Name : peer-Tunnel
