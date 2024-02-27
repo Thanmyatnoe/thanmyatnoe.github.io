@@ -7,6 +7,7 @@ subtitle:
 My name is Than Myat Noe. And I have strong knowledge in:
 
 - Network Administration
+- System Administration 
 - CI/CD, Containerization (Kubernetes, Docker)
 - Cloud Technology ( AWS & Azure)
 - Infrastructure Automation (Ansible, Terraform)
