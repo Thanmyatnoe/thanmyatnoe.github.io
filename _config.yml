@@ -50,10 +50,10 @@ round-avatar: true
 social-network-links:
   email: "Thanmyatnoe0@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/profile.php?id=61551826665315
-  github: https://github.com/Thanmyatnoe
+  facebook: 
+  github: Thanmyatnoe
 #  twitter: daattali
-  linkedin: https://www.linkedin.com/in/tmn0/
+  linkedin: tmn0
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname

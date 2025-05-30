@@ -6,11 +6,11 @@ subtitle:
 
 <h1 align="center">Hi, I'm Than Myat Noe 👋</h1>
 <p align="center">
-  <img src="https://your-image-url.com/profile.jpg" width="150" style="border-radius: 50%;" />
+  <img src="/assets/img/tmn.png" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  💻 Technical Team Lead | 🛠️ Infrastructure & DevOps Engineer <br>
+  💻 🛠️ Infrastructure Engineer <br>
   📍 Naypiytaw, Myanmar |  📧 thanmyatnoe0@gmail.com | 📞 09678254401
 </p>
 
@@ -90,5 +90,3 @@ subtitle:
 | 📧 Email | yourname@example.com |
 
 --->
-
-<p align="center">Made with ❤️ and Markdown</p>
