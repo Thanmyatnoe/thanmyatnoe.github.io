@@ -6,7 +6,7 @@ subtitle:
 
 <h1 align="center">Hi, I'm Than Myat Noe 👋</h1>
 <p align="center">
-  <img src="/assets/img/tmn.png" width="150" style="border-radius: 50%;" />
+  <!--<img src="/assets/img/tmn.png" width="150" style="border-radius: 50%;" />-->
 </p>
 
 <p align="center">
@@ -18,21 +18,20 @@ subtitle:
 
 ## 🧑‍💼 About Me
 
-- 💼 Over 5+ years of hand on experience in various industries well-known network and System technologies from Cisco, Fortinet, VMware and etc. in Goverment and Enterprise's Enviroment.
-- 🏗️ Currently building DevOps & infrastructure solutions for enterprise-scale applications.
+Over 5+ years of hand on experience in various industries well-known network and System technologies from Cisco, Fortinet, VMware and etc. in Goverment and Enterprise's Enviroment.Currently building DevOps & infrastructure solutions for enterprise-scale applications.
 
 ---
 
-## 💼 Experience
+<!--## 💼 Work Experience
 
-### 🚀 Technical Team Lead — Wise and Wealth Co., Ltd (2018 – Present)
+### 🏢 Wise and Wealth Co., Ltd (2018 – Present)
 
 - Provide the network/system services and solutions to the various government.
 - Reviewing existing architecture and proposing new network and system architecture.
 - Preparing Network and System designs based on project requirements & implementing them.
 - Make recommendations for future upgrades, maintain network and system security
 
----
+----->
 
 ## 🧰 Tech Stack
 
@@ -44,7 +43,7 @@ subtitle:
 `Unbound DNS`, `Nginx`, `Apache`, `Git`
 
 **Cloud & DevOps:**  
-`Azure` `Docker` `GitHub Actions` `Ansible` `Zabbix` `SonarQube`
+`Azure` `AWS` `Docker` `GitHub Actions` `Ansible` `Zabbix` `SonarQube`
 
 <!--**Languages & Tools:**  
 `Bash` `PowerShell` `Python` `NGINX` `.NET Core` `Angular`-->

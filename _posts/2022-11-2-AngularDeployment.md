@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Angular Deployment"
-subtitle: "Angular App Deployment လုပ်ဆောင်ခြင်း"
+subtitle: "Angular App Deployment"
 tags: [Deployment]
 ---
 
